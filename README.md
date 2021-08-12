@@ -9,10 +9,10 @@
 **Libraries & Tools:** NumPy, OpenCV, imutils, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, tensorFlow.
 
 
-|Donate/Support|
-|-----|
+<img align="right">|Donate/Support|
+<img align="right">|-----|
 |<a href="https://www.buymeacoffee.com/gitupmak"><img align="left" alt="Aslam Khan - buymeacoffee" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
 
-<img align="right">|Follow / Connect With Me|
+|Follow / Connect With Me|
 |-----|
 |<a href="https://www.linkedin.com/in/aslam-khan-243265158/"><img align="left" alt="Aslam's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="mailto:aslamece1097@gmail.com"><img align="left" alt="Aslam's Personal mail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a><a href="https://www.instagram.com/iamaslam.khan/"><img align="left" alt="Aslam's Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>

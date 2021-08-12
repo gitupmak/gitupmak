@@ -13,6 +13,6 @@
 |-----|
 |<a href="https://www.buymeacoffee.com/gitupmak"><img align="left" alt="Aslam Khan - buymeacoffee" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
 
-|Follow / Connect With Me|
+|<img align="right"> Follow / Connect With Me|
 |-----|
-|<a href="https://www.linkedin.com/in/aslam-khan-243265158/"><img align="right" alt="Aslam's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="mailto:aslamece1097@gmail.com"><img align="right" alt="Aslam's Personal mail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a><a href="https://www.instagram.com/iamaslam.khan/"><img align="right" alt="Aslam's Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
+|<a href="https://www.linkedin.com/in/aslam-khan-243265158/"><img align="left" alt="Aslam's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a><a href="mailto:aslamece1097@gmail.com"><img align="left" alt="Aslam's Personal mail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a><a href="https://www.instagram.com/iamaslam.khan/"><img align="left" alt="Aslam's Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>

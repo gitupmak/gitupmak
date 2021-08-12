@@ -9,9 +9,9 @@
 **Libraries & Tools:** NumPy, OpenCV, imutils, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, tensorFlow.
 
 
-<img align="right">|Donate/Support|
-<img align="right">|-----|
-<img align="right">|<a href="https://www.buymeacoffee.com/gitupmak"><img align="left" alt="Aslam Khan - buymeacoffee" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
+|Donate/Support|
+|-----|
+|<a href="https://www.buymeacoffee.com/gitupmak"><img align="left" alt="Aslam Khan - buymeacoffee" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
 
 |Follow / Connect With Me|
 |-----|

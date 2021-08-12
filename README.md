@@ -11,7 +11,7 @@
 
 <img align="right">|Donate/Support|
 <img align="right">|-----|
-|<a href="https://www.buymeacoffee.com/gitupmak"><img align="left" alt="Aslam Khan - buymeacoffee" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
+<img align="right">|<a href="https://www.buymeacoffee.com/gitupmak"><img align="left" alt="Aslam Khan - buymeacoffee" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
 
 |Follow / Connect With Me|
 |-----|

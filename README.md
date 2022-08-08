@@ -7,7 +7,6 @@
 **Languages:**  Python, MATLAB, SQL, C, C++.
 
 **Libraries & Tools:** NumPy, OpenCV, imutils, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, tensorFlow.
-=======
 
 
 |Donate/Support|

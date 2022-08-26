@@ -2,11 +2,11 @@
 
 ### Things I'm good at :fire:
 
-**Domain:** Image Processing, Computer Vision, Machine Learning, Deep Learning, Data Science, and Data Visualization.
+**Domain:** Data Analytics, Machine Learning, Deep Learning, Hypothesis Testing, Image Processing, Computer Vision, and Data Visualization.
 
-**Languages:**  Python, MATLAB, SQL, C, C++.
+**Languages:**  Python, SQL, and MATLAB.
 
-**Libraries & Tools:** NumPy, OpenCV, imutils, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, tensorFlow.
+**Libraries & Tools:** BigQuery, NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, SciPy, Seaborn, Matplotlib, and OpenCV.
 
 
 |Donate/Support|

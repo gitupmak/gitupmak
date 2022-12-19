@@ -2,11 +2,11 @@
 
 ### Things I'm good at :fire:
 
-**Domain:** Data Analytics, Machine Learning, Deep Learning, Image Processing, Computer Vision, AWS Machine Learning, Google Vision API, Hypothesis Testing and Data Visualization.
+**Domain:** Data Analytics, Machine Learning, Deep Learning, Image Processing, Computer Vision, AWS Machine Learning, Google Vision API, Hypothesis Testing, and Data Visualization.
 
 **Languages:**  Python, SQL, and MATLAB.
 
-**Libraries & Tools:** BigQuery, NumPy, Pandas, SciPy, OpenCV, Pillow, Scikit-Learn, TensorFlow, Keras, Torch, Seaborn, Matplotlib.
+**Libraries & Tools:** BigQuery, NumPy, Pandas, SciPy, OpenCV, Pillow, Scikit-Learn, TensorFlow, Keras, Torch, Matplotlib, and Seaborn.
 
 
 |Donate/Support|

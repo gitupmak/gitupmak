@@ -6,7 +6,7 @@
 
 **Languages:**  Python, SQL, and MATLAB.
 
-**Libraries & Tools:** BigQuery, NumPy, Pandas, SciPy, OpenCV, Pillow, Scikit-Learn, TensorFlow, Keras, Torch, Matplotlib, and Seaborn.
+**Libraries & Tools:** BigQuery, NumPy, Pandas, SciPy, OpenCV, Pillow, Scikit-Learn, TensorFlow, Keras, Torch, Spacy, NLTK, Langchain, OpenAI, VertexAI, Matplotlib, and Seaborn.
 
 
 |Donate/Support|

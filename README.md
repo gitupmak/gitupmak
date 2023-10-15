@@ -2,7 +2,7 @@
 
 ### Things I'm good at :fire:
 
-**Domain:** Data Analytics, Machine Learning, Deep Learning, Image Processing, Computer Vision, AWS Machine Learning, Google Vision API, Hypothesis Testing, and Data Visualization.
+**Domain:** Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Image Processing, Computer Vision, AWS Machine Learning, Google Vision API, Hypothesis Testing, and Data Visualization.
 
 **Languages:**  Python, SQL, and MATLAB.
 

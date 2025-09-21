@@ -2,16 +2,9 @@
 
 ### Things I'm good at :fire:
 
-**Domain:** Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Image Processing, Computer Vision, AWS Machine Learning, Google Vision API, Hypothesis Testing, and Data Visualization.
+**Domain:** Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Image Processing, Computer Vision, Azure, GCP, AWS, Hypothesis Testing, and Data Visualization.
 
 **Languages:**  Python, SQL, and MATLAB.
-
-**Libraries & Tools:** BigQuery, NumPy, Pandas, SciPy, OpenCV, Pillow, Scikit-Learn, TensorFlow, Keras, Torch, Spacy, NLTK, Langchain, OpenAI, VertexAI, Matplotlib, and Seaborn.
-
-
-|Donate/Support|
-|-----|
-|<a href="https://www.buymeacoffee.com/gitupmak"><img align="left" alt="Aslam Khan - buymeacoffee" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
 
 |<img align="right"> Follow / Connect With Me|
 =======
